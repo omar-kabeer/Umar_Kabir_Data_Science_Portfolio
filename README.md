@@ -46,6 +46,6 @@ The primary objective of this Data-centric AI (DCAI) competition is to predict t
 > **Email**: [Umar Kabir](uksaid12@gmail.com)  
 > **LinkedIn**: [Umar Kabir](https://www.linkedin.com/in/umar-kabir-9b8a6a88/)  
 > **GitHub**: [omar-kabeer](https://github.com/omar-kabeer)  
-> **Kaggle**: [Umar Kabir](https://www.kaggle.com/umarkabir)
-> **Twitter**: [@omar_kabeer](https://twitter.com/Omar_Kabeer)
+> **Kaggle**: [Umar Kabir](https://www.kaggle.com/umarkabir)  
+> **Twitter**: [@omar_kabeer](https://twitter.com/Omar_Kabeer)  
 > **DataSciencePortfol**: [Umar Kabir](https://www.datascienceportfol.io/umarkabir)  
