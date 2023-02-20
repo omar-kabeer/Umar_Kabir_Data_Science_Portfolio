@@ -1,2 +1,3 @@
-# Umar_Kabir_Data_Science_Portfolio
-Explore my data science portfolio! Discover projects &amp; code samples showcasing my skills in data analysis, machine learning, and visualization. Contact me for questions and collaborations.
+# Umar Kabir Portfolio
+## Introduction
+Welcome to my data science portfolio repository! This repository contains a collection of projects and code samples that showcase my skills and experience in the field of data science. As a data scientist, I have worked on a variety of projects that involve data analysis, machine learning, and data visualization. In this repository, you will find examples of my work that demonstrate my proficiency in these areas. Each project and code sample includes a description of the problem being solved, the data used, and the methodology employed. I hope that this portfolio will give you a sense of my skills and experience in data science, and I look forward to hearing from you if you have any questions or would like to collaborate.
