@@ -27,3 +27,25 @@ The primary objective of this Data-centric AI (DCAI) competition is to predict t
 > **Python Code Sample 2**  
 > **SQL Code Sample 1**  
 > **SQL Code Sample 2**  
+
+## Data Visualization
+
+> **Project Name 1**
+
+## Technologies Used
+
+> **Programming Languages**: The programming languages used are Python and SQL.    
+> **Libraries and Frameworks**: The libraries and frameworks used are Pandas, NumPy, Scikit-learn, TensorFlow, Keras, and others.  
+> **Data Visualization Tools**: The data visualization tools used are Matplotlib, Seaborn, Plotly, PowerBI, and others.  
+> **Big Data Technologies**: The big data technologies used are Apache Spark, Hadoop, and Hive.  
+> **Depolyment Technologies**: The web development technologies used are Streamlit, Dask, Bokeh, MySQL, PostgreSQL, and Flask.  
+> **Cloud Platforms**: The cloud platforms I have experience deploying is AWS.  
+
+## Contact Information
+
+> **Email**: [Umar Kabir](uksaid12@gmail.com)  
+> **LinkedIn**: [Umar Kabir](https://www.linkedin.com/in/umar-kabir-9b8a6a88/)  
+> **GitHub**: [omar-kabeer](https://github.com/omar-kabeer)  
+> **Kaggle**: [Umar Kabir](https://www.kaggle.com/umarkabir)
+> **Twitter**: [@omar_kabeer](https://twitter.com/Omar_Kabeer)
+> **DataSciencePortfol**: [Umar Kabir](https://www.datascienceportfol.io/umarkabir)  
