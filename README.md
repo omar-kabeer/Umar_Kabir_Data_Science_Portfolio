@@ -6,7 +6,7 @@ As a data scientist, I've worked on a wide range of projects across industries, 
 
 On this website, you'll find examples of my data science projects, including detailed explanations of the problem statement, data analysis, and modeling techniques used. You'll also see visualizations and insights that I've derived from the data, as well as code snippets and notebooks that showcase my technical skills.  
 
-In addition, you can learn more about my background and experience in data science, including my education, certifications, and previous work experience. You can also find information about my skills in programming languages such as Python, R, and SQL, as well as machine learning algorithms, data visualization tools, and other technologies.  
+In addition, you can learn more about my background and experience in data science, including my education, certifications, and previous work experience. You can also find information about my skills in programming languages such as Python and SQL, as well as machine learning algorithms, data visualization tools, and other technologies.  
 
 Whether you're a recruiter looking for a data scientist to join your team or a fellow data scientist interested in collaborating on a project, I hope that my portfolio website will give you a sense of my expertise and passion for data science.  
 
