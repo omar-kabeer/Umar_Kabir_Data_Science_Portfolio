@@ -1,6 +1,16 @@
 # Umar Kabir Portfolio
 ## Introduction
-Welcome to my data science portfolio repository! This repository contains a collection of projects and code samples that showcase my skills and experience in the field of data science. As a data scientist, I have worked on a variety of projects that involve data analysis, machine learning, and data visualization. In this repository, you will find examples of my work that demonstrate my proficiency in these areas. Each project and code sample includes a description of the problem being solved, the data used, and the methodology employed. I hope that this portfolio will give you a sense of my skills and experience in data science, and I look forward to hearing from you if you have any questions or would like to collaborate.  
+Welcome to my data science portfolio website! I'm excited to share with you my projects, skills, and experience.  
+
+As a data scientist, I've worked on a wide range of projects across industries, from healthcare to finance to e-commerce. Each project has presented its own unique challenges and opportunities, and I've learned something new from each one.  
+
+On this website, you'll find examples of my data science projects, including detailed explanations of the problem statement, data analysis, and modeling techniques used. You'll also see visualizations and insights that I've derived from the data, as well as code snippets and notebooks that showcase my technical skills.  
+
+In addition, you can learn more about my background and experience in data science, including my education, certifications, and previous work experience. You can also find information about my skills in programming languages such as Python, R, and SQL, as well as machine learning algorithms, data visualization tools, and other technologies.  
+
+Whether you're a recruiter looking for a data scientist to join your team or a fellow data scientist interested in collaborating on a project, I hope that my portfolio website will give you a sense of my expertise and passion for data science.  
+
+So take a look around, explore my projects and skills, and feel free to reach out if you have any questions or opportunities for collaboration.   
 
 ## Projects
 
